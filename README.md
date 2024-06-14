@@ -33,7 +33,7 @@
 
 ---
 
-JAVA, Git, GitHub, Notion, eclipse, MySQL, JSP, HTML, CSS
+JAVA, Git, GitHub, VS Code, MySQL, JSP, HTML, CSS, React
 
 ## 🖥 개발 내용
 
